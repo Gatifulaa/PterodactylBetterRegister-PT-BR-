@@ -1,7 +1,7 @@
 # Módulo de Registro PT-BR
 
 ## Módulo de registro para painel Pterodactyl 1.1x.x
-- *Baseado no módulo de registro de WemX/PterodactylRegister*
+- *Baseado no módulo de registro de VertisanPro/PterodactylRegister*
 
 Antes de continuar, certifique-se que está usando a versão 1.11.11+ para continuar a instalação.
 Para começar a usar o módulo de registro, escolha um dos métodos de instalação entre o automático e o modo manual.
