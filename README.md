@@ -19,7 +19,7 @@ Para começar a usar o módulo de registro, escolha um dos métodos de instalaç
 ### Instalação manual (para modificações)
   1. Use SFTP e de upload em todas as pastas dentro do seu diretório padrão do pterodactyl:  ``/var/www/pterodactyl``
 
-  2. Vá para resources/scripts/components/auth/LoginContainer.tsx e ache a linha </LoginFormContainer> no arquivo, e antes dessa linha cole o código abaixo:
+  2. Vá para ``resources/scripts/components/auth/LoginContainer.tsx`` e ache a linha ``</LoginFormContainer>`` no arquivo, e antes dessa linha cole o código abaixo:
 ```
 <div css={tw`mt-6 text-center`}>
     <Link
