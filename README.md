@@ -11,7 +11,7 @@ Para começar a usar o módulo de registro, escolha um dos métodos de instalaç
 ### Instalação automática (recomendado)
 
   1. Tenha certeza que está no diretório padrão do pterodactyl usando: ``cd /var/www/pterodactyl``
-  2. Baixe o instalador do módulo: ``composer require Gatifulaa/betterregister``
+  2. Baixe o instalador do módulo: ``composer require gatifulaa/betterregister``
   3. Rode o instalador: ``php artisan register:install``
 
 ---
